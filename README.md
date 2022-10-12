@@ -4,7 +4,7 @@ NAMA : RINI ARIZA
 
 NIM: 312210337
 
-KELAS:TI.22.A3
+KELAS: TI.22.A3
 
 
 1.Langkah pertama konfigurasi menggunakan nama dan email kalian
