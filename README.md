@@ -26,7 +26,7 @@ KELAS:TI.22.A3
 
 5.lalu ketik command "git init",untuk membuat repository lokal
 
-<img width="457" alt="tahap 5" src="https://user-images.githubusercontent.com/115516688/195233001-347acfca-51bf-4391-bb88-86051ccc3611.png">
+<img width="457" alt="tahap 5" src="https://user-images.githubusercontent.com/115542704/195375586-ec519c27-eb7b-4f19-aa4e-d32113eb6c9c.png">
 
 6.lalu kita buat file sesuai keinginan kita contohnya "README.md"
 
