@@ -1,4 +1,5 @@
-# Latihan VCS
+
+# Latihan 1
 NAMA : RINI ARIZA
 
 NIM: 312210337
@@ -17,11 +18,11 @@ KELAS:TI.22.A3
 
 3.buat direktori dengan command "mkdir" 
 
-<img width="268" alt="tahap 3" src="https://user-images.githubusercontent.com/115516688/195231691-fdf3f0a1-4969-44c8-8526-721c8c34d1df.png">
+<img width="268" alt="tahap 3" src="https://user-images.githubusercontent.com/115542704/195370645-e631e506-22c6-43ef-996d-c28b1026177a.png">
 
 4.selanjutnya masuk ke direktori dengan command cd "change directory"
 
-<img width="264" alt="tahap 4" src="https://user-images.githubusercontent.com/115516688/195232746-9fbb3803-d971-429a-9118-e1a24419a874.png">
+<img width="264" alt="tahap 4" src="https://user-images.githubusercontent.com/115542704/195370527-f11e7935-b587-47a7-adbb-e88080f148bc.png">
 
 5.lalu ketik command "git init",untuk membuat repository lokal
 
