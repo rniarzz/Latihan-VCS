@@ -1,4 +1,3 @@
-![Screenshot (24)](https://user-images.githubusercontent.com/115542704/195362388-79056c78-ebbd-41e0-b24c-5061d91aa99c.png)
 # Latihan VCS
 NAMA : RINI ARIZA
 
