@@ -3,11 +3,12 @@ NAMA : RINI ARIZA
 
 NIM: 312210337
 
-KELAS:TI.22.A3
+KELAS:TI.22.A3![Screenshot (24)](https://user-images.githubusercontent.com/115542704/195364301-24cb2347-d83a-408e-b402-a92c5abbecb1.png)
+
 
 1.Langkah pertama konfigurasi menggunakan nama dan email kalian
 
-<img width="344" alt="tahap 1" src="https://user-images.githubusercontent.com/115542704/195362388-79056c78-ebbd-41e0-b24c-5061d91aa99c.png"
+<img width="344" alt="tahap 1" src="https://user-images.githubusercontent.com/115542704/195362388-79056c78-ebbd-41e0-b24c-5061d91aa99c.png">
 
 2.pilih direktori yang sudah aktif contohnya c:labs_pemograman1 lalu klik kanan dan pilih "git bash here"
 
