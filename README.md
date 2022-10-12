@@ -8,7 +8,7 @@ KELAS:TI.22.A3
 
 1.Langkah pertama konfigurasi menggunakan nama dan email kalian
 
-<img width="344" alt="tahap 1" src=
+<img width="344" alt="tahap 1" src="https://user-images.githubusercontent.com/115542704/195362388-79056c78-ebbd-41e0-b24c-5061d91aa99c.png"
 
 2.pilih direktori yang sudah aktif contohnya c:labs_pemograman1 lalu klik kanan dan pilih "git bash here"
 
