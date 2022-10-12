@@ -12,7 +12,7 @@ KELAS:TI.22.A3
 
 2.pilih direktori yang sudah aktif contohnya c:labs_pemograman1 lalu klik kanan dan pilih "git bash here"
 
-<img width="578" alt="tahap 2" src=![Screenshot (29)](https://user-images.githubusercontent.com/115542704/195367196-a3d3b2cf-69f4-48c5-af9b-94351dc6bcf4.png)
+<img width="578" alt="tahap 2" src="https://user-images.githubusercontent.com/115542704/195367196-a3d3b2cf-69f4-48c5-af9b-94351dc6bcf4.png">
 
 
 3.buat direktori dengan command "mkdir" 
