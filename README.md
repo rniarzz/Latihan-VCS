@@ -1,9 +1,9 @@
 # Latihan VCS
 NAMA : RINI ARIZA
 
-NIM:312210337
+NIM: 312210337
 
-KELAS:Ti.22.A3
+KELAS:TI.22.A3
 
 1.Langkah pertama konfigurasi menggunakan nama dan email kalian
 
