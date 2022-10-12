@@ -3,7 +3,7 @@ NAMA : RINI ARIZA
 
 NIM: 312210337
 
-KELAS:TI.22.A3![Screenshot (24)](https://user-images.githubusercontent.com/115542704/195364301-24cb2347-d83a-408e-b402-a92c5abbecb1.png)
+KELAS:TI.22.A3
 
 
 1.Langkah pertama konfigurasi menggunakan nama dan email kalian
