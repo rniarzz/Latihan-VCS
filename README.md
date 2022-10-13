@@ -54,7 +54,7 @@ KELAS: TI.22.A3
 
 12.lalu buat repository baru dengan menggunakan github.com lalu pilih menu icon di atas kanan dan kil new repository
 
-<img width="945" alt="tahap 11" src="https://user-images.githubusercontent.com/115542704/195607753-a9cc6b47-785f-4089-9342-cb40101fde88.png">
+<img width="945" alt="tahap 11" src="https://user-images.githubusercontent.com/115542704/195608208-9104ef3d-585f-41a5-990f-a7be5a1de1b0.png">
 
 13.lalu buat repository baru dengan nama sesuai keinginan kalian contohnya "latihan VCS"
 
@@ -98,4 +98,4 @@ API
 Training
 Blog
 About
-LatihanVCS/README.md at master · Azhyka/LatihanVCS
+LatihanVCS/README.md at master · Rini/LatihanVCS
