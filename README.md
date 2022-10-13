@@ -50,7 +50,7 @@ KELAS: TI.22.A3
 
 11.untuk menyimpan perubahan kita menggunakan command "git commit
 
-<img width="371" alt="tahap 10" src="https://user-images.githubusercontent.com/115516688/195235761-c1856abd-b6cd-4596-8a32-c2a2e8a06366.png">
+<img width="371" alt="tahap 10" src="https://user-images.githubusercontent.com/115542704/195596189-ae75a05e-8aab-4daf-ae8d-a02c2a3623bc.png">
 
 12.lalu buat repository baru dengan menggunakan github.com lalu pilih menu icon di atas kanan dan kil new repository
 
