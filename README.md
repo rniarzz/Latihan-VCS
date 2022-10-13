@@ -1,4 +1,4 @@
-# Latihan 
+# Latihan VCS
 NAMA : RINI ARIZA
 
 NIM: 312210337
