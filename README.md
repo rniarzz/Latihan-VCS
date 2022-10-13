@@ -37,7 +37,8 @@ KELAS: TI.22.A3
 
 8.lalu kita bisa menggunakan command " git commit -m "komentar commit" " untuk menyimpan perubahan yang ada kedalam database repository local
 
-<img width="367" alt="tahap 8" src="https://user-images.githubusercontent.com/115516688/195234322-e2f80d90-3b01-4840-b7c7-1e985fca04fc.png">
+<img width="367" alt="tahap 8" src="https://user-images.githubusercontent.com/115542704/195595128-70afbd76-16d7-4078-9cf9-491351f41436.png">>
+
 
 9.kita bisa mengedit file tersbut dengan comman nano
 
