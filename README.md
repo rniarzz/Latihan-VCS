@@ -78,7 +78,7 @@ KELAS: TI.22.A3
 
 18.setelah itu gunakan "git clone" untuk mengcopy repository server
 
-<img width="368" alt="tahap 17" src="https://user-images.githubusercontent.com/115516688/195235992-fbfa04c4-4272-41bc-9bfa-726edd6b1169.png">
+<img width="368" alt="tahap 17" src="https://user-images.githubusercontent.com/115542704/195610524-911fee8a-9851-4ea8-991a-8db056e35ee7.png">
 
 SEKIAN TUTORIAL CARA MEMBUAT REPOSITORY
 
