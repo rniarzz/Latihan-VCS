@@ -54,7 +54,7 @@ KELAS: TI.22.A3
 
 12.lalu buat repository baru dengan menggunakan github.com lalu pilih menu icon di atas kanan dan kil new repository
 
-<img width="945" alt="tahap 11" src="https://user-images.githubusercontent.com/115516688/195235793-c15254b9-2a10-48fd-9287-7b0e3399abc8.png">
+<img width="945" alt="tahap 11" src="https://user-images.githubusercontent.com/115542704/195607753-a9cc6b47-785f-4089-9342-cb40101fde88.png">
 
 13.lalu buat repository baru dengan nama sesuai keinginan kalian contohnya "latihan VCS"
 
