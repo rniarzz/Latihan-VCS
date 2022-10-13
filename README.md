@@ -33,7 +33,7 @@ KELAS: TI.22.A3
 
 7.atau kita bisa menambahkan file tersebut kita gunakan command "git add"
 
-<img width="377" alt="tahap 7" src="https://user-images.githubusercontent.com/115516688/195233487-787a6357-8c52-4d7b-bd16-d114474bb188.png">
+<img width="377" alt="tahap 7" src="https://user-images.githubusercontent.com/115542704/195594685-c903ea30-36c7-446f-a198-7abc6c93e0bb.png">>
 
 8.lalu kita bisa menggunakan command " git commit -m "komentar commit" " untuk menyimpan perubahan yang ada kedalam database repository local
 
