@@ -58,7 +58,7 @@ KELAS: TI.22.A3
 
 13.lalu buat repository baru dengan nama sesuai keinginan kalian contohnya "latihan VCS"
 
-<img width="570" alt="tahap 12" src="https://user-images.githubusercontent.com/115516688/195235889-832efbc7-2517-40f9-8a73-9ac3c28dadd8.png">
+<img width="570" alt="tahap 12" src="https://user-images.githubusercontent.com/115542704/195599062-15edac62-7a9f-4c83-bdad-f103afe3738a.png">
 
 14.untuk menambahkan remote repository kita bisa menggunakan command "git remote add origin [url]" dan gunakan command "git push -u origin master" untuk mengirim perubahan pada local repository ke server
 
