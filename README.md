@@ -46,7 +46,7 @@ KELAS: TI.22.A3
 
 10.lalu ketik sesuai keinginan kalian contohnya "Latihan menjalankan VCS"
 
-<img width="256" alt="tahap 9" src="https://user-images.githubusercontent.com/115516688/195234789-160259c1-b14d-47df-ba4d-754aa8b8f09d.png">
+<img width="256" alt="tahap 9" src="https://user-images.githubusercontent.com/115542704/195595825-3a8bf426-d120-42d9-b9d1-e3e4cb87ec80.png">
 
 11.untuk menyimpan perubahan kita menggunakan command "git commit
 
