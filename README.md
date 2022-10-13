@@ -74,7 +74,7 @@ KELAS: TI.22.A3
 
 17.jika berhasil maka tampilannya akan seperti dibawah ini
 
-<img width="661" alt="tahap 16" src="https://user-images.githubusercontent.com/115516688/195235962-5cc9f36a-c45e-4c56-998f-390a40350ded.png">
+<img width="661" alt="tahap 16" src="https://user-images.githubusercontent.com/115542704/195601362-947bdf97-ac09-46a8-9e52-02245cf29bbf.png">
 
 18.setelah itu gunakan "git clone" untuk mengcopy repository server
 
