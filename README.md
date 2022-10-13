@@ -62,7 +62,7 @@ KELAS: TI.22.A3
 
 14.untuk menambahkan remote repository kita bisa menggunakan command "git remote add origin [url]" dan gunakan command "git push -u origin master" untuk mengirim perubahan pada local repository ke server
 
-<img width="367" alt="tahap 13" src="https://user-images.githubusercontent.com/115516688/195235906-2a7da1e2-e3f9-4e60-8573-d4a6f37f437e.png">
+<img width="367" alt="tahap 13" src="https://user-images.githubusercontent.com/115542704/195599926-2ffaa08c-0393-4177-892b-9456c38c3ff7.png">
 
 15.gunakan "git push -u origin master" untuk upload ke github nya 
 
