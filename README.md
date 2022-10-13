@@ -42,7 +42,7 @@ KELAS: TI.22.A3
 
 9.kita bisa mengedit file tersbut dengan comman nano
 
-<img width="375" alt="sebelum 9" src="https://user-images.githubusercontent.com/115516688/195235046-88dcb98e-b91b-4ae4-96eb-236d89f1b7de.png">
+<img width="375" alt="sebelum 9" src="https://user-images.githubusercontent.com/115542704/195595472-4a90f9c5-5fae-4115-9f40-63c7bc6b448f.png">
 
 10.lalu ketik sesuai keinginan kalian contohnya "Latihan menjalankan VCS"
 
