@@ -29,7 +29,7 @@ KELAS: TI.22.A3
 
 6.lalu kita buat file sesuai keinginan kita contohnya "README.md"
 
-<img width="373" alt="tahap 6" src="https://user-images.githubusercontent.com/115516688/195233294-4c306f0b-eade-4804-a19c-39ff119ee171.png">
+<img width="373" alt="tahap 6" src="https://user-images.githubusercontent.com/115542704/195609450-ffff4e0d-aafb-4016-aff3-3dc1a270eb7c.png">
 
 7.atau kita bisa menambahkan file tersebut kita gunakan command "git add"
 
