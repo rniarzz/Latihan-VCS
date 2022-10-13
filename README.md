@@ -66,7 +66,7 @@ KELAS: TI.22.A3
 
 15.gunakan "git push -u origin master" untuk upload ke github nya 
 
-<img width="377" alt="tahap 14" src="https://user-images.githubusercontent.com/115516688/195235924-3cd8a4fd-7948-43d8-9edc-6f7e818d0213.png">
+<img width="377" alt="tahap 14" src="https://user-images.githubusercontent.com/115542704/195600729-68e037dc-4b7c-4930-b599-278e33704a2f.png">
 
 16.lalu kita bisa melakukan konfirmasi dengan memasukan password kita
 
