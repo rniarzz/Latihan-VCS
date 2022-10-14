@@ -76,21 +76,3 @@ KELAS: TI.22.A3
 <img width="368" alt="tahap 17" src="https://user-images.githubusercontent.com/115542704/195610524-911fee8a-9851-4ea8-991a-8db056e35ee7.png">
 
 SEKIAN TUTORIAL CARA MEMBUAT REPOSITORY
-
-
-
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-LatihanVCS/README.md at master · Rini/LatihanVCS
