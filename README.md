@@ -35,48 +35,43 @@ KELAS: TI.22.A3
 
 <img width="377" alt="tahap 7" src="https://user-images.githubusercontent.com/115542704/195594685-c903ea30-36c7-446f-a198-7abc6c93e0bb.png">>
 
-8.lalu kita bisa menggunakan command " git commit -m "komentar commit" " untuk menyimpan perubahan yang ada kedalam database repository local
-
-<img width="367" alt="tahap 8" src="https://user-images.githubusercontent.com/115542704/195595128-70afbd76-16d7-4078-9cf9-491351f41436.png">>
-
-
-9.kita bisa mengedit file tersbut dengan comman nano
+8.kita bisa mengedit file tersbut dengan comman nano
 
 <img width="375" alt="sebelum 9" src="https://user-images.githubusercontent.com/115542704/195595472-4a90f9c5-5fae-4115-9f40-63c7bc6b448f.png">
 
-10.lalu ketik sesuai keinginan kalian contohnya "Latihan menjalankan VCS"
+9.lalu ketik sesuai keinginan kalian contohnya "Latihan menjalankan VCS"
 
 <img width="256" alt="tahap 9" src="https://user-images.githubusercontent.com/115542704/195595825-3a8bf426-d120-42d9-b9d1-e3e4cb87ec80.png">
 
-11.untuk menyimpan perubahan kita menggunakan command "git commit
+10.untuk menyimpan perubahan kita menggunakan command "git commit
 
 <img width="371" alt="tahap 10" src="https://user-images.githubusercontent.com/115542704/195596189-ae75a05e-8aab-4daf-ae8d-a02c2a3623bc.png">
 
-12.lalu buat repository baru dengan menggunakan github.com lalu pilih menu icon di atas kanan dan kil new repository
+11.lalu buat repository baru dengan menggunakan github.com lalu pilih menu icon di atas kanan dan kil new repository
 
 <img width="945" alt="tahap 11" src="https://user-images.githubusercontent.com/115542704/195608208-9104ef3d-585f-41a5-990f-a7be5a1de1b0.png">
 
-13.lalu buat repository baru dengan nama sesuai keinginan kalian contohnya "latihan VCS"
+12.lalu buat repository baru dengan nama sesuai keinginan kalian contohnya "latihan VCS"
 
 <img width="570" alt="tahap 12" src="https://user-images.githubusercontent.com/115542704/195599447-88216ce2-4c59-4afa-a8ef-a92bd107c6a5.png">
 
-14.untuk menambahkan remote repository kita bisa menggunakan command "git remote add origin [url]" dan gunakan command "git push -u origin master" untuk mengirim perubahan pada local repository ke server
+13.untuk menambahkan remote repository kita bisa menggunakan command "git remote add origin [url]" dan gunakan command "git push -u origin master" untuk mengirim perubahan pada local repository ke server
 
 <img width="367" alt="tahap 13" src="https://user-images.githubusercontent.com/115542704/195599926-2ffaa08c-0393-4177-892b-9456c38c3ff7.png">
 
-15.gunakan "git push -u origin master" untuk upload ke github nya 
+14.gunakan "git push -u origin master" untuk upload ke github nya 
 
 <img width="377" alt="tahap 14" src="https://user-images.githubusercontent.com/115542704/195600729-68e037dc-4b7c-4930-b599-278e33704a2f.png">
 
-16.lalu kita bisa melakukan konfirmasi dengan memasukan password kita
+15.lalu kita bisa melakukan konfirmasi dengan memasukan password kita
 
 <img width="267" alt="tahap 15" src="https://user-images.githubusercontent.com/115516688/195235941-7c84eb5f-f890-4f4e-b0c5-c262e72e60e2.png">
 
-17.jika berhasil maka tampilannya akan seperti dibawah ini
+16.jika berhasil maka tampilannya akan seperti dibawah ini
 
 <img width="661" alt="tahap 16" src="https://user-images.githubusercontent.com/115542704/195601362-947bdf97-ac09-46a8-9e52-02245cf29bbf.png">
 
-18.setelah itu gunakan "git clone" untuk mengcopy repository server
+17.setelah itu gunakan "git clone" untuk mengcopy repository server
 
 <img width="368" alt="tahap 17" src="https://user-images.githubusercontent.com/115542704/195610524-911fee8a-9851-4ea8-991a-8db056e35ee7.png">
 
